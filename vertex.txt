@@ -1,0 +1,13 @@
+JunkYard_Entrance
+Club_Room
+Hallway
+Side_Entrance
+Bathroom
+Kitchen
+Stock_Room
+Bar
+Changing_Room
+Lounge
+Garage_Storage
+Garage
+Exit

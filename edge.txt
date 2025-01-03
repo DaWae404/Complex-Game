@@ -1,0 +1,16 @@
+JunkYard_Entrance East Club_Room
+Club_Room North Hallway
+Club_Room South Side_Entrance
+Club_Room East Bar
+Hallway East Bathroom
+Bathroom East Kitchen
+Kitchen East Stock_Room
+Kitchen South Bar
+Bar South Changing_Room
+Changing_Room West Side_Entrance
+Stock_Room South Lounge
+Lounge West Bar
+Lounge East Garage_Storage
+Lounge South Garage
+Changing_Room East Garage
+Garage East Exit
